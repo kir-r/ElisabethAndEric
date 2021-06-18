@@ -1,0 +1,33 @@
+body, header, main {
+    margin: 0 10%;
+  }
+.elisabeth {
+    width: 350px;
+    text-align: justify;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+.eric {
+    width: 400px;
+    text-align: justify;
+    float: right;
+margin-top: 40px;
+    margin-right: 20px;
+  }
+h2 {
+ clear: both;
+    text-align: center;
+    padding-top: 60px;
+}
+nav {
+margin: 300px;
+}
+
+.page {
+text-align: right;
+}
+footer {
+text-align: right;
+color: grey;
+}

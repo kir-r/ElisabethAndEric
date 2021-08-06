@@ -24,8 +24,9 @@ nav {
 margin: 300px;
 }
 
-.page {
-text-align: right;
+.page-number {
+position: absolute;
+    right: 270px;
 }
 footer {
 text-align: right;
